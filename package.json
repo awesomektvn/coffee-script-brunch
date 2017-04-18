@@ -12,7 +12,7 @@
     "test": "eslint index.js && eslint --env=mocha test.js && mocha"
   },
   "dependencies": {
-    "coffee-script": "^2.x"
+    "coffee-script": "next"
   },
   "devDependencies": {
     "mocha": "^3.0",
